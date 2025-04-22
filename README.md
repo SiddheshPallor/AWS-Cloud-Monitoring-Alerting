@@ -1,2 +1,26 @@
-# AWS-Cloud-Monitoring-Alerting
-This project demonstrates the setup of a cloud-based web application hosted on an AWS EC2 instance, with monitoring and alerting configured using Amazon CloudWatch.
+# AWS Cloud Monitoring & Alerting Project
+
+This project sets up a basic web server on AWS EC2 and configures monitoring and alerts using Amazon CloudWatch.
+
+## What I Did
+- Launched an EC2 instance and installed Apache
+- Created a simple HTML page: “Hello from the Cloud!”
+- Set up a custom VPC with internet access
+- Monitored EC2 metrics using CloudWatch
+- Built a dashboard to track CPU, network, and health
+- Created an alarm to send email alerts when CPU usage is high
+- Used SNS to send alert emails
+
+## Clean-Up
+After the project, I deleted:
+- EC2 instance
+- CloudWatch alarm and dashboard
+- SNS topic
+- VPC and networking components
+
+## Tools Used
+- AWS EC2
+- Amazon CloudWatch
+- Amazon SNS
+- Apache Web Server
+
