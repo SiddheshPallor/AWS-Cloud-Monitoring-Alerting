@@ -24,3 +24,6 @@ After the project, I deleted:
 - Amazon SNS
 - Apache Web Server
 
+## 📸 Screenshots
+Please refer to the Documentation file for supporting images.
+
