@@ -1,5 +1,18 @@
 # AWS Cloud Monitoring & Alerting Project
 
+*COMPANY*: CODTECH IT SOLUTIONS
+
+*NAME*: SIDDHESH SHAJITH PALLOR
+
+*INTERN ID*: CT04DK78
+
+*DOMAIN*: CLOUD COMPUTING
+
+*DURATION*: 4 WEEEKS
+
+*MENTOR*: NEELA SANTOSH
+
+
 This project sets up a basic web server on AWS EC2 and configures monitoring and alerts using Amazon CloudWatch.
 
 ## What I Did
